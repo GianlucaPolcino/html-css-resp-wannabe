@@ -77,6 +77,11 @@ img{
 img{
   width: 100px;
   height: 100px;
+  margin: 10px 0;
+}
+
+h3{
+  margin-bottom: 10px;
 }
 
 .container.grey{
